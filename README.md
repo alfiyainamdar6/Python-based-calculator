@@ -64,16 +64,27 @@ Result: 15.0
 Learning Outcomes:
 
 -Understanding Python syntax
+
 -Working with functions
+
 -Implementing loops and conditions
+
 -Handling runtime errors
+
 -Building menu-driven programs
 
+
+
 Future Improvements:
+
 -Add scientific calculator functions
+
 -Create GUI using Tkinter
+
 -Add history feature
+
 -Add percentage and square root operations
+
 
 Author:
 Alfiya Inamdar
